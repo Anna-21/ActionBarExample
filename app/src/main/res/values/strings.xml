@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActionBarExample</string>
+    <string name="string">String</string>
+    <string name="check_updates">check_updates</string>
+    <string name="search">search</string>
+    <string name="share">share</string>
+</resources>
